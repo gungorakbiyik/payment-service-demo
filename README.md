@@ -27,4 +27,4 @@ public void onPaymentCompleted(PaymentCompletedEvent event) { ... }
 
 Konunun tüm hikayesi — timestamp tuzağı, race condition anatomisi ve neden 3 kişi 2 günde bulamadı:
 
-[Medium'da oku](#)
+[Medium'da oku](#https://medium.com/@gungor.akbiyik/eventlistener-ile-para-kaybettiren-race-condition-ve-timestamp-bizi-nas%C4%B1l-kand%C4%B1rd%C4%B1-fde039ccfbfb)
